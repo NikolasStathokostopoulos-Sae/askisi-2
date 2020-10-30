@@ -1,6 +1,6 @@
 'use strict';
-let firstName = prompt ('Ποιό ειναι το ονομά σου?');
-let lastName = prompt ('Ποιό ειναι το επιθετό σου?');
+let firstName = prompt ('Ποιό είναι το όνομα σου?');
+let lastName = prompt ('Ποιό είναι το επίθετο σου?');
 let fullName = firstName + ' ' + lastName;
 let greeting = 'Keep coding';
 
